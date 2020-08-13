@@ -13,9 +13,9 @@
 :figure-caption: 図
 :chapter-label: 
 :docname: = Asciidoc KB
-:author: Gaku Maeda <gaku.maeda@hpe.com>
+:author: Gaku Maeda <gakxxxx@gmail.com>
 :revnumber: 1.0
-:revdate: 2020/06/18
+:revdate: 2020/08/13
 
 = GKE On-Prem Bundled load balancing with Seesaw
 :toc:
