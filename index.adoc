@@ -1,0 +1,9 @@
+= gakxxxx.github.io
+
+== サイトリンク
+
+* http://gakxxxx.github.io/book[book]
+
+== 外部リンク集
+
+* https://bookmeter.com/users/486131/summary
