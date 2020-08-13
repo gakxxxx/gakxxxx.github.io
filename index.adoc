@@ -1,0 +1,32 @@
+:lang: ja
+:doctype: book
+:toclevels: 3
+:toc-title: 目次
+:sectnums:
+:sectnumlevels: 4
+:sectlinks:
+:imagesdir: ./images
+:icons: font
+:source-highlighter: highlightjs
+:example-caption: 例
+:table-caption: 表
+:figure-caption: 図
+:chapter-label: 
+:docname: = Asciidoc KB
+:author: Gaku Maeda <gaku.maeda@hpe.com>
+:revnumber: 1.0
+:revdate: 2020/06/18
+
+= GKE On-Prem Bundled load balancing with Seesaw
+:toc:
+
+
+== 概要1A
+
+=== 概要1B
+
+==== 概要1C
+
+== 概要2A
+
+== 概要3A
